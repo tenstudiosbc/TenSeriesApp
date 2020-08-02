@@ -1,2 +1,4 @@
 App Version: 1.5
 - Fixed Unplay-able video
+
+check on latest release!
